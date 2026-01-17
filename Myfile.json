@@ -1,0 +1,22 @@
+[
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+   [
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "b38bfcf85f783b00",
+        "key": "12345678",
+        "expirydate": "15-06-2028",
+        "Allowoffline": false
+    }, 
+     
+]
